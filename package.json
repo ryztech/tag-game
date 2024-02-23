@@ -2,7 +2,7 @@
   "name": "tag-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ryztech.github.io/tag-game",
+  "homepage": "https://ryztech.github.io/tag-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
