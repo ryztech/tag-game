@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import '../App.css';
 
 function GameBoard() {
     const initialGrid = Array.from({length: 15}, () => Array(15).fill('.'));
